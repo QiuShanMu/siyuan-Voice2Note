@@ -1,0 +1,41 @@
+{
+  "name": "Voice2Note",
+  "author": "Gubaiyue",
+  "url": "https://github.com/gubaiyue/Voice2Note",
+  "version": "0.0.1",
+  "minAppVersion": "3.0.1",
+  "backends": [
+    "windows",
+    "linux",
+    "docker"
+  ],
+  "frontends": [
+    "desktop",
+    "browser-desktop",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "Voice2Note",
+    "zh_CN": "语音转文字工具"
+  },
+  "description": {
+    "default": "This is a voice to text plugin",
+    "zh_CN": "这是一个语音转文字插件"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://ld246.com/sponsor"
+    ]
+  },
+  "keywords": [
+    "voice2note",
+    "语音转文字"
+  ]
+}
